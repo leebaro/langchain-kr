@@ -1,2 +1,7 @@
+langchain
+langgraph
 langchain-google-vertexai
+langchain-community 
+langchain-experimental 
+langchain-cohere
 langchain_teddynote
